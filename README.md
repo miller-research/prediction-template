@@ -1,7 +1,7 @@
 # Prediction Registration Template
 **Version 1.0**
 
-_This template specifies the elements to include when registering theory-based predictions of future events. To use the template, copy the information below or access the template on a Google Doc [here](https://docs.google.com/document/d/1Iq1sbX_YSbOYaAXveBFmI5-wWQPm_VPi-zO4KO6_K4Y/edit?usp=sharing). For background on theory-based predictions, see the article ["Registering Theory-based Predictions"](https://www.cambridge.org/core/journals/ps-political-science-and-politics) published in_ PS: Political Science & Politics. If you have any questions or suggestions for improving the template, please contact Andrew Miller at millera@usna.edu.
+_This template specifies the elements to include when registering theory-based predictions of future events. To use the template, copy the information below or access the template on a Google Doc [here](https://docs.google.com/document/d/1Iq1sbX_YSbOYaAXveBFmI5-wWQPm_VPi-zO4KO6_K4Y/edit?usp=sharing). For background on theory-based predictions, see the article ["Registering Theory-based Predictions"](https://www.cambridge.org/core/journals/ps-political-science-and-politics) published in_ PS: Political Science & Politics. _If you have questions or suggestions for improving the template, please contact Andrew Miller at millera@usna.edu._
 
 ---
 
