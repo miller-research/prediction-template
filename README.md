@@ -70,8 +70,8 @@ Specify the criteria, if any, for which updates will be made to the initial pred
 ### Conflicts of Interest
 Disclose any conflicts of interest related to the registration, including financial, that could influence the researcher’s impartiality. If the researcher has any known influence over the value of the variables making up the theory, it should be described in detail in this section. 
 
-### Acknowledgements
-Add acknowledgements for those who supported the study registration. 
+### Acknowledgments
+Add acknowledgments for those who supported the study registration. 
 
 ### References
 Add a list of references cited in this study registration.
